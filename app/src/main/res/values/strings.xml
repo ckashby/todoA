@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="et_enter_task">Enter a task</string>
+    <string name="bt_add">Add</string>
+</resources>
